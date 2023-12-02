@@ -6,6 +6,7 @@ Description:
 
 Dataset:
         I took this dataset from kaggle which contains 284315 rows of normal transaction and 492 fraud transaction. Due to the large size I reduced data set size to 4007 rows which contain 3491 normal transaction and 516 fraud transaction.
+        Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Context:
 The dataset contains credit card transactions made by European cardholders over a period of two days in September 2013. It was collected to investigate how to deal with highly imbalanced datasets, where the vast majority of transactions are non-fraudulent (normal), while only a small fraction are fraudulent.
